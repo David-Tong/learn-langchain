@@ -1,2 +1,2 @@
 # learn-langchain
-Learn LangChain
+Learn Langchain
